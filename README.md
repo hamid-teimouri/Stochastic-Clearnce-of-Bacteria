@@ -1,3 +1,6 @@
+Theoretical investigation of stochastic clearance of bacteria: first-passage analysis
+
+
 Understanding mechanisms of bacterial eradication is critically important for overcoming failures of antibiotic treatments. 
 Current studies suggest that the clearance of large bacterial populations proceeds deterministically, while for smaller
 populations, the stochastic effects become more relevant. 
